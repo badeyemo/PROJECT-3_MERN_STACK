@@ -1,2 +1,2 @@
 # PROJECT-3_MERN_STACK
-Installation of Express, NodeJs and connection to MongoDB Atlas
+Installation of Express, NodeJs and connection to MongoDB Atlas project implementation.
